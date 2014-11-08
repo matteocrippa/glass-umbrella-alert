@@ -1,0 +1,20 @@
+{
+    "name": "glass-umbrella-alert",
+    "version": "0.0.1",
+    "private": true,
+    "author": "github@matteocrippa.it",
+    "bugs": "ejohn@feigdev.com",
+    "contributors": "ejohn@feigdev.com",
+    "keywords": ["glass", "mirror api", "weather"],
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "3.3.4",
+        "googleapis": "0.4.2",
+	       "weather-js": "*"
+    },
+    "engines": {
+        "node": "0.10.22"
+    }
+}
